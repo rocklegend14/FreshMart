@@ -48,9 +48,9 @@ The .env file is **not included** in this repository for security reasons.
 
 ## Getting Started
 1. Clone the repo:
-  `bash`
-  git clone https://github.com/your-username/your-repo.git
-  cd your-repo
+  ```bash```
+  -git clone "https://github.com/your-username/your-repo.git"
+  -cd your-repo
 
 2. Install dependencies:
    npm install
