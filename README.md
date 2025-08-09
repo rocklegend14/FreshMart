@@ -60,5 +60,3 @@ The .env file is **not included** in this repository for security reasons.
 4. Run the server:
    npm run dev
 ---
-
-## 🔐 Environment Variables
